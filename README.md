@@ -1,32 +1,52 @@
 # Cyber-projects-Lab
 
-# Neal Oh
-Cybersecurity Analyst | SOC Analyst | Security+
+Cybersecurity / SOC Analyst
 
-Cybersecurity professional with hands-on experience in
-SIEM monitoring, Windows/Linux security, Splunk, Sysmon,
-network analysis, vulnerability assessment, and incident response.
+CompTIA Security+ | Splunk | Sysmon | Wireshark | Kali Linux
 
-## Cybersecurity Projects
+## About Me
 
-### SOC Detection & Investigation Lab
-Built a virtual SOC environment using Windows 10, Ubuntu,
-Kali Linux, Splunk Enterprise, Sysmon, and Splunk Universal Forwarder.
+Cybersecurity professional focused on security monitoring,
+incident investigation, threat detection, and vulnerability
+analysis.
 
-- Security event monitoring
-- PowerShell investigation
-- Sysmon Event ID analysis
-- SPL queries
-- True-positive / false-positive analysis
-- Incident investigation
+## Featured Projects
 
-[View Project](link-to-your-project)
+### 🛡 SOC Detection & Investigation Lab
+Built a virtual SOC environment using Splunk, Windows,
+Sysmon, Ubuntu and Kali Linux.
 
-## Tools
+[View Project]
 
-Splunk | Sysmon | Wireshark | Nmap | Kali Linux |
-Windows | Linux | Nessus | Burp Suite | VMware
+### 🔎 Network Traffic Analysis
+Analyzed network traffic using Wireshark to identify
+suspicious connections and protocols.
+
+[View Project]
+
+### ⚠️ Vulnerability Assessment
+Performed host discovery, port scanning, vulnerability
+analysis and remediation recommendations.
+
+[View Project]
+
+## Skills
+
+SIEM: Splunk
+Endpoint: Windows, Sysmon
+Network: Wireshark, Nmap
+Security: Kali Linux, Nessus, OpenVAS
+Virtualization: VMware
 
 ## Certifications
 
 CompTIA Security+
+
+## Resume
+
+[View Resume]
+
+## Contact
+
+LinkedIn
+Email
