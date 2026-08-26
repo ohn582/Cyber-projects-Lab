@@ -220,3 +220,4 @@ I'm continuing to expand my cybersecurity portfolio through hands-on projects in
 **Resume:** [View My Resume](ADD-RESUME-LINK)
 
 **Cybersecurity Projects:** Explore my repositories below.
+* [SOC-Detection-Investigation-Lab](https://github.com/ohn582/SOC-Detection-Investigation-Lab/tree/main)
