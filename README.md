@@ -121,6 +121,27 @@ The project demonstrated the process of identifying security risks and translati
 
 ---
 
+## 🎣 Social Engineering & Phishing Simulation Lab
+
+**Tools:** GoPhish • Outlook • SMTP • Social Engineering • Phishing Awareness
+
+Designed and executed a controlled phishing simulation using GoPhish
+to study social engineering techniques and phishing campaign behavior.
+
+### Project Highlights
+
+- Configured a GoPhish sending profile
+- Created a simulated phishing email template
+- Built a controlled landing page
+- Created a test user group
+- Launched a phishing simulation campaign
+- Monitored campaign delivery and interaction results
+- Analyzed a hypothetical post-phishing compromise scenario
+
+➡️ [View Project]([YOUR-PROJECT-LINK-HERE](https://github.com/ohn582/Cybersecurity-Capstone-Artemis))
+
+---
+
 # 💼 Relevant Experience
 
 ## Cybersecurity Fellow
