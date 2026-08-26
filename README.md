@@ -215,6 +215,6 @@ I'm continuing to expand my cybersecurity portfolio through hands-on projects in
 
 # 📫 Connect With Me
 
-**LinkedIn:** [Add LinkedIn URL]
+**LinkedIn:** [LinkedIn URL](https://www.linkedin.com/in/nealoh)
 
 **Resume:** [View My Resume](ADD-RESUME-LINK)
