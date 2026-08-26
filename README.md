@@ -96,7 +96,7 @@ The lab is designed to demonstrate:
 
 **Security Event → Detection → Triage → Investigation → Evidence → Determination → Response**
 
-➡️ **[View SOC Investigation Project](YOUR-PROJECT-LINK-HERE)**
+➡️ **[View SOC Investigation Project](https://github.com/ohn582/SOC-Detection-Investigation-Lab/tree/main)**
 
 ---
 
@@ -218,6 +218,3 @@ I'm continuing to expand my cybersecurity portfolio through hands-on projects in
 **LinkedIn:** [Add LinkedIn URL]
 
 **Resume:** [View My Resume](ADD-RESUME-LINK)
-
-**Cybersecurity Projects:** Explore my repositories below.
-* [SOC-Detection-Investigation-Lab](https://github.com/ohn582/SOC-Detection-Investigation-Lab/tree/main)
