@@ -117,7 +117,7 @@ The assessment included:
 
 The project demonstrated the process of identifying security risks and translating technical findings into actionable remediation recommendations.
 
-➡️ **[View Artemis Project](YOUR-PROJECT-LINK-HERE)**
+➡️ **[View Artemis Project](https://github.com/ohn582/Cybersecurity-Capstone-Artemis)**
 
 ---
 
