@@ -138,7 +138,7 @@ to study social engineering techniques and phishing campaign behavior.
 - Monitored campaign delivery and interaction results
 - Analyzed a hypothetical post-phishing compromise scenario
 
-➡️ **[View Lab Project]([https://github.com/ohn582/Cybersecurity-Capstone-Artemis](https://github.com/ohn582/Cybersecurity-Social-Engineering-Testing-Project))**
+➡️ **[View Lab Project](https://github.com/ohn582/Cybersecurity-Social-Engineering-Testing-Project)**
 
 ---
 
